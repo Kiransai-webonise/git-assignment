@@ -8,7 +8,7 @@ list of few websites using ROR in the backend
 	6. bloomberg
 	7. twitch
 
-linux less known commands -
+linux less known commands are given below -
 
 	1. sudo !! command => Running the command without specifying sudo command will give you permission denied error. So, you don’t need to rewrite the whole command again just put ‘!!‘ will grab the last command.
 
