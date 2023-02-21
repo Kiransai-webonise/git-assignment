@@ -8,9 +8,10 @@ list of few websites using ROR in the backend
 	6. bloomberg
 	7. twitch
 
+
 linux less known commands -
 
-	1. sudo !! command => Running the command without specifying sudo command will give you permission denied error. So, you don’t need to rewrite the whole command again just put ‘!!‘ will grab the last command.
+	1. sudo !! command => Running the command without specifying sudo command will give you permission denied error. So, you don’t need to rewrite the whole command again just put ‘!!‘ will         the last command.
 
 	2. python command => The below command generates a simple web page over HTTP for the directory structure tree and can be accessed at port 8000 in browser till interrupt signal is sent.
 	
@@ -19,6 +20,7 @@ linux less known commands -
 	4. shuf Command => The “shuf” command randomly select lines/files/folder from a file/folder. First list the contents of a folder using ls command.
 	
 	5. tree command => Get the current directory structure in tree like format.
+
 
 Difference between Website and Web-application
 
@@ -33,6 +35,14 @@ Ruby on Rails
 	to as “Rails,” Ruby on Rails is a web development framework with an MVC control structure and currently running its 6.1 version. The 16-year-old language has dramatically influenced the web 	
 	development 	structures and managing databases, web pages, and other components on a web application.
 
+
+
+ Difference between Website and Web-application
+
+
+      website mainly consist of staticpages and web app are one to one application.we cannot manuplicate the content of websites and in web application we can manipulate the data.
+      ex of web site-The hindu and ex for web application is amazon,zoom.
+      website can be access by many people but web application is mainly for one to one aceess.
 
 
 
