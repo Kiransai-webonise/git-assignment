@@ -19,6 +19,8 @@ linux less known commands -
 	4. shuf Command => The “shuf” command randomly select lines/files/folder from a file/folder. First list the contents of a folder using ls command.
 	
 	5. tree command => Get the current directory structure in tree like format.
+	
+	6. treels => 
 
 Difference between Website and Web-application
 
