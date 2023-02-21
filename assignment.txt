@@ -23,5 +23,4 @@ Ruby on Rails
 	development 	structures and managing databases, web pages, and other components on a web application.
 
 
-
-
+git authentication checking
