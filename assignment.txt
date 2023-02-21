@@ -1,0 +1,10 @@
+   list of few websites using ROR in the backend
+
+1. shopify
+2. github
+3. airbnb
+3. hulu
+5. basecamp
+6. bloomberg
+7. twitch
+
