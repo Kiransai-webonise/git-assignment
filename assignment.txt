@@ -21,6 +21,8 @@ linux less known commands -
 	5. tree command => Get the current directory structure in tree like format.
 	
 	6. treels => 
+	
+	7. python =>
 
 Difference between Website and Web-application
 
