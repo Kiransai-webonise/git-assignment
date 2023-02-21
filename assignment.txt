@@ -26,7 +26,8 @@ Difference between Website and Web-application
 	website mainly consist of staticpages and web app are one to one application.we cannot manuplicate the content of websites and in web application we can manipulate the data.
 	ex of web site-The hindu and ex for web application is amazon,zoom.
 	website can be access by many people but web application is mainly for one to one aceess.
-
+        web-application is widely use
+        .
 Ruby on Rails
 	Ruby on Rails is regarded as one of the best ruby frameworks. It was the primary language in developing big projects such as Twitter and helped the language boost the community. Often referred
 	to as “Rails,” Ruby on Rails is a web development framework with an MVC control structure and currently running its 6.1 version. The 16-year-old language has dramatically influenced the web 	
